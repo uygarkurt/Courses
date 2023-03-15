@@ -1,4 +1,4 @@
-#Advanced NLP - CS 685, Spring 2022, UMass Amherst
+# Advanced NLP - CS 685, Spring 2022, UMass Amherst
 
 You can find my solutions to homeworks and quizes for CS 685 from UMass Amherst. I would be glad to discuss my solutions and other possible approaches. If so don't hesitate to contact me from uygarsci@gmail.com
 
