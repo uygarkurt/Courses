@@ -1,0 +1,17 @@
+a:hover {
+    color: red;
+    background: black;
+}
+
+@media (hover: hover) {
+    a:hover {
+        color: purple;
+        background: green;
+    }
+}
+
+#navbar {
+    position: fixed;
+    overflow: hidden;
+    background-color: black;
+}

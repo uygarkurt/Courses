@@ -1,0 +1,21 @@
+#nav-bar {
+    position: fixed;
+    overflow: hidden;
+    background-color: black;
+}
+
+nav {
+    display: flex;
+}
+
+header {
+  position: fixed;
+  top: 0px;
+}
+
+@media (hover: hover) {
+    a:hover {
+        color: purple;
+        background: green;
+    }
+}
